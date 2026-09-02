@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Grace Mikha 👋</h1>
-<h3 align="center">🎓 Student & Aspiring Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=180&section=header&text=Grace%20Mikha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%26%20Aspiring%20Developer&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <em>Learning to build things, one line of code at a time ✨</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=d97757&center=true&vCenter=true&width=500&lines=Learning+web+%26+mobile+development;Python+%7C+JavaScript+%7C+PHP+%7C+Laravel;Building+things%2C+one+bug+at+a+time+%F0%9F%90%9B" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,9 +14,6 @@
 <p align="center">
   <a href="https://www.instagram.com/itsgracey.x/">
     <img src="https://img.shields.io/badge/Instagram-d97757?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:gracemikha39@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6a5acd?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -74,6 +72,4 @@
 
 <br>
 
-<p align="center">
-  <sub>Thanks for stopping by! 🌿</sub>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=100&section=footer" />
